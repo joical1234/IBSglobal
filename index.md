@@ -21,18 +21,21 @@ IBSGlobal combines creativity, industry, and geopolitics in a persistent Earth-b
 
 * 📦 Modpack Download: [IBSGlobal Official Pack](https://drive.google.com/file/d/1mpXlH6kGb83m9CDoj6GPHt_UMQtXnLXD/view?usp=sharing)
 * 🚀 Prism Launcher: [Prism Launcher](https://prismlauncher.org/download/windows/)
-* 🏴‍☠️ Prism Launcher (Cracked): [Prism Launcher Cracked Direct Download](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/11.0.2-1/PrismLauncher-Windows-MSVC-Setup-11.0.2-1.exe)
+* 🏴‍☠️ Prism Launcher (Cracked): [Prism Launcher Cracked (Direct Download)](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/11.0.2-1/PrismLauncher-Windows-MSVC-Setup-11.0.2-1.exe)
 * 🎥 Setup Tutorial: [minecraft modpack tutorial for rm](https://youtu.be/9NSdj397IgU)
 
 ### Launcher Policy
 
-IBSGlobal supports only legitimate Minecraft accounts and official launcher setups.
-Cracked or pirated launchers are not supported or endorsed, including modified or illegal versions of Prism Launcher.
+IBSGlobal supports both premium and non-premium launcher setups for accessibility and community growth.
 
-Please use:
+Supported launchers may include:
 
-* An official Minecraft Java account
-* The official [Prism Launcher website](https://prismlauncher.org/?utm_source=chatgpt.com)
+* Official Minecraft Launcher
+* [Prism Launcher](https://prismlauncher.org/?utm_source=chatgpt.com)
+* [Prism Launcher Cracked (Direct Download)](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/11.0.2-1/PrismLauncher-Windows-MSVC-Setup-11.0.2-1.exe)
+* Other compatible third-party launchers
+
+⚠️ Use third-party launchers at your own risk. Always download software from trusted sources and keep your account information secure.
 
 ## Version
 
@@ -43,18 +46,5 @@ Please use:
 * Create Mod
 
 ## Join the Adventure
-
-Start your journey, build your empire, and engineer the future on IBSGlobal.
-
-
-Downloads & Setup
-
-Version
-
-Minecraft Java 1.20.1
-
-Main Mod
-Create Mod
-Join the Adventure
 
 Start your journey, build your empire, and engineer the future on IBSGlobal.
